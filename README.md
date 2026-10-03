@@ -169,7 +169,3 @@ server: {
 - BikeList：表格分页 + 搜索 + 弹窗表单 + **租车按钮（仅空闲状态）**
 - RentOrderList：表格分页 + 多条件筛选 + **还车按钮（仅租赁中状态）**
 - MyRent：当前用户的订单列表
-
-## 📝 License
-
-MIT License
